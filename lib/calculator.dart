@@ -45,7 +45,7 @@ class _CalculatorState extends State<Calculator> {
 
     //function for calculator operations (/, *, -, +)
 
-    if (buttonText == "C") {
+    if (buttonText == "AC") {
       result = "";
       value = "";
       history = "";
